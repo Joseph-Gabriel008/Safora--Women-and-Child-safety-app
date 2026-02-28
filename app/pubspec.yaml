@@ -1,0 +1,39 @@
+name: safora
+description: "Safora - offline-first emergency safety app for women and children."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.5
+  geolocator: ^11.1.0
+  torch_light: ^1.1.0
+  vibration: ^3.1.3
+  record: ^6.2.0
+  connectivity_plus: ^6.1.5
+  speech_to_text: ^7.0.0
+  flutter_ringtone_player: ^4.0.0+4
+  url_launcher: ^6.3.1
+  encrypt: ^5.0.3
+  crypto: ^3.0.6
+  battery_plus: ^6.2.2
+  flutter_tts: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/survival_guide.json
+    - assets/data/emergency_contacts.json

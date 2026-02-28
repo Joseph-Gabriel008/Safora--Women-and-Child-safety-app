@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "country": "India",
+      "police": "100",
+      "womenHelpline": "1091",
+      "childHelpline": "1098",
+      "generalEmergency": "112"
+    },
+    {
+      "country": "United States",
+      "police": "911",
+      "womenHelpline": "911",
+      "childHelpline": "1-800-4-A-CHILD",
+      "generalEmergency": "911"
+    },
+    {
+      "country": "United Kingdom",
+      "police": "999",
+      "womenHelpline": "0808 2000 247",
+      "childHelpline": "0800 1111",
+      "generalEmergency": "999"
+    }
+  ]
+}

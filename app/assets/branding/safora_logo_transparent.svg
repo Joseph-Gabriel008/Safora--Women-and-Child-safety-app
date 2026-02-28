@@ -1,0 +1,19 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ring" x1="240" y1="220" x2="780" y2="820" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5C2BC0"/>
+      <stop offset="1" stop-color="#D81B60"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="320" y1="250" x2="740" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F6F1FF"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="512" cy="512" r="360" fill="url(#ring)"/>
+  <circle cx="512" cy="512" r="314" fill="white"/>
+
+  <path d="M512 250C603 309 686 308 768 308V519C768 641 661 742 512 796C363 742 256 641 256 519V308C338 308 421 309 512 250Z" fill="url(#shieldGrad)"/>
+
+  <path d="M419 557L520 395C527 383 543 380 553 390C562 399 563 414 556 425L481 557H577C592 557 602 570 596 584L511 748C504 761 486 763 476 752C469 744 468 732 475 722L541 606H438C424 606 414 593 419 579V557Z" fill="#4E2AB6"/>
+</svg>

@@ -1,0 +1,218 @@
+{
+  "scenarios": [
+    {
+      "scenario": "unsafeCab",
+      "shortTitle": "Unsafe Cab Ride",
+      "immediateSteps": [
+        "Share your live route with a trusted contact.",
+        "Text vehicle number and driver details to someone you trust.",
+        "Ask to stop at a busy petrol station or police booth.",
+        "Keep your phone unlocked with emergency shortcuts ready."
+      ],
+      "whatNotToDo": [
+        "Do not confront the driver aggressively inside the moving vehicle.",
+        "Do not switch off your phone or location services.",
+        "Do not move to isolated roads if asked to reroute."
+      ],
+      "recommendedActions": [
+        "Switch to stealth mode if you feel immediate risk.",
+        "Record audio silently for evidence.",
+        "Use code word messaging to alert guardians discreetly."
+      ],
+      "relatedQuickActions": [
+        "activateStealth",
+        "startSilentRecording",
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "nightTravelAlone",
+      "shortTitle": "Night Travel Alone",
+      "immediateSteps": [
+        "Stay on well-lit roads and near crowds.",
+        "Keep one ear free and stay alert.",
+        "Send periodic status updates to your guardian."
+      ],
+      "whatNotToDo": [
+        "Do not walk through dark shortcuts.",
+        "Do not disclose personal details to strangers."
+      ],
+      "recommendedActions": [
+        "Keep flashlight ready.",
+        "Use voice trigger monitoring if needed.",
+        "Trust instincts and move toward safe spaces quickly."
+      ],
+      "relatedQuickActions": [
+        "flashlightOn",
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "domesticThreat",
+      "shortTitle": "Domestic Threat",
+      "immediateSteps": [
+        "Move to a room with two exits if possible.",
+        "Keep a charged phone and important documents nearby.",
+        "Send a pre-agreed code word to a trusted person."
+      ],
+      "whatNotToDo": [
+        "Do not stay trapped in kitchens or balcony corners.",
+        "Do not delete threatening messages or call logs."
+      ],
+      "recommendedActions": [
+        "Capture evidence safely and quietly.",
+        "Reach women helpline or local support center.",
+        "Leave and seek immediate shelter if violence escalates."
+      ],
+      "relatedQuickActions": [
+        "startSilentRecording",
+        "activateStealth"
+      ]
+    },
+    {
+      "scenario": "childLost",
+      "shortTitle": "Child Lost",
+      "immediateSteps": [
+        "Stay where you are and do not run far.",
+        "Find a police officer, shop staff, or a mother with kids.",
+        "Say your guardian phone number clearly."
+      ],
+      "whatNotToDo": [
+        "Do not go with strangers.",
+        "Do not leave crowded safe areas."
+      ],
+      "recommendedActions": [
+        "Call child helpline if guardian is unreachable.",
+        "Use fake call only if it helps draw safe attention."
+      ],
+      "relatedQuickActions": [
+        "fakeCall",
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "followedByStranger",
+      "shortTitle": "Being Followed",
+      "immediateSteps": [
+        "Change direction and enter a shop or public place.",
+        "Call someone and describe your location loudly.",
+        "Ask nearby people for visible help."
+      ],
+      "whatNotToDo": [
+        "Do not go home directly.",
+        "Do not stop in isolated corners."
+      ],
+      "recommendedActions": [
+        "Capture audio if safe.",
+        "Alert guardians with your live location."
+      ],
+      "relatedQuickActions": [
+        "startSilentRecording",
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "kidnappingRisk",
+      "shortTitle": "Kidnapping Risk",
+      "immediateSteps": [
+        "Create loud attention immediately.",
+        "Drop personal items in visible places to mark trail.",
+        "Send quick distress signal if phone is reachable."
+      ],
+      "whatNotToDo": [
+        "Do not stay silent if people are nearby.",
+        "Do not unlock private information for unknown people."
+      ],
+      "recommendedActions": [
+        "Prioritize escape to public lighted locations.",
+        "Trigger emergency readiness and stealth logs."
+      ],
+      "relatedQuickActions": [
+        "activateStealth",
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "medicalEmergency",
+      "shortTitle": "Medical Emergency",
+      "immediateSteps": [
+        "Call emergency services and share exact location.",
+        "Check breathing and responsiveness.",
+        "Keep the person warm and calm until help arrives."
+      ],
+      "whatNotToDo": [
+        "Do not give food or drink to unconscious person.",
+        "Do not move a person with possible spinal injury."
+      ],
+      "recommendedActions": [
+        "Record incident timeline for responders.",
+        "Keep emergency numbers ready."
+      ],
+      "relatedQuickActions": [
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "cpr",
+      "shortTitle": "CPR",
+      "immediateSteps": [
+        "Check responsiveness and call for emergency help.",
+        "Place hands at center of chest and compress 100-120/min.",
+        "After 30 compressions, give 2 rescue breaths if trained.",
+        "Continue until help arrives or breathing returns."
+      ],
+      "whatNotToDo": [
+        "Do not stop CPR too early.",
+        "Do not delay calling emergency services."
+      ],
+      "recommendedActions": [
+        "Use speaker mode while performing CPR.",
+        "Ask a bystander to rotate compressions every 2 minutes."
+      ],
+      "relatedQuickActions": [
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "bleedingControl",
+      "shortTitle": "Bleeding Control",
+      "immediateSteps": [
+        "Apply firm direct pressure on the wound.",
+        "Use clean cloth or gauze and keep pressure constant.",
+        "Raise injured area above heart level if possible."
+      ],
+      "whatNotToDo": [
+        "Do not remove deeply embedded objects.",
+        "Do not keep checking wound repeatedly."
+      ],
+      "recommendedActions": [
+        "Call emergency number quickly.",
+        "Watch for shock signs and keep patient warm."
+      ],
+      "relatedQuickActions": [
+        "triggerSOS"
+      ]
+    },
+    {
+      "scenario": "postIncidentProtection",
+      "shortTitle": "Post Incident Protection",
+      "immediateSteps": [
+        "Move to medical and legal help immediately.",
+        "Preserve clothes, media files, and messages as evidence.",
+        "Write down timeline while details are fresh."
+      ],
+      "whatNotToDo": [
+        "Do not delete recordings, photos, or call history.",
+        "Do not wash potential evidence items before guidance."
+      ],
+      "recommendedActions": [
+        "Seek medical examination and mental health support.",
+        "Report incident with trusted support person present.",
+        "Back up evidence in secure storage."
+      ],
+      "relatedQuickActions": [
+        "startSilentRecording"
+      ]
+    }
+  ]
+}
